@@ -23,10 +23,3 @@ http://onedrive....
 http://onedrive....
 ### Model Checkpoint for Track 2
 http://onedrive....
-
-
-Two model checkpoints (one per track) that reproduce the results of the submitted CSV files.
-- At least one checkpoint must reproduce a selected Kaggle submission. This checkpoint can be from either track.
-- If your model checkpoints are too large to be included in the zip file, you can include a `checkpoints.md` file containing links to the checkpoints uploaded to OneDrive or a hoster of your choosing.
-
-Participants are required to include the following materials in their submission packages via Canvas as a zip file (1 submission per group is sufficient):
