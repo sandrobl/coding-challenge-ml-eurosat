@@ -1,14 +1,21 @@
 # Coding Challenge ML Eurosat Die Drei Fragezeichen
 
 ## Training Code
-- ml_eurosat.ipynb creates the model and prediction CSV files for the TRACK 1.
-- ml-eurosat-pre-trained.ipynb creates the model and prediction CSV files for the Track 2.
+- [ml-eurosat.ipynb](ml-eurosat.ipynb) creates the model and prediction CSV files for the TRACK 1.
+- [ml-eurosat-pre-trained.ipynb](ml-eurosat-pre-trained.ipynb) creates the model and prediction CSV files for the Track 2.
 
 ## Inference Code
-Code to instantiate the model(s) and run inference on the test set.
+This code to  instantiate the model(s) and run inference on the test set are present in each file ml-eurosat.ipynb 
 
 ## CSV Prediction Files
-Two CSV files containing model predictions, one for each track. Please note that your model checkpoints (see below) should reproduce those results.
+
+### Prediction File Track 1 
+http://onedrive.... 
+### Prediction File Track 2
+http://onedrive....
+
+
+
 
 ## Model Checkpoints
 Two model checkpoints (one per track) that reproduce the results of the submitted CSV files.
