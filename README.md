@@ -25,7 +25,7 @@ http://onedrive....
 http://onedrive....
 
 ## Declaration of Aids
-ChatGPT / Gemini: Help debugging code to find errors. 
-ChatGPT / Gemini: Help with recommendations on streamlining the code.
-ChatGPT / Gemini: Help visualizations integration.
+- ChatGPT / Gemini: Help debugging code to find errors. 
+- ChatGPT / Gemini: Help with recommendations on streamlining the code.
+- ChatGPT / Gemini: Help visualizations integration.
 
