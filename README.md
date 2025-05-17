@@ -23,3 +23,9 @@ http://onedrive....
 http://onedrive....
 ### Model Checkpoint for Track 2
 http://onedrive....
+
+## Declaration of Aids
+ChatGPT / Gemini: Help debugging code to find errors. 
+ChatGPT / Gemini: Help with recommendations on streamlining the code.
+ChatGPT / Gemini: Help visualizations integration.
+
