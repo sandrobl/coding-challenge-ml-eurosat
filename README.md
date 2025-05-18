@@ -13,10 +13,8 @@ This file needs to be downloaded first from here: https://www.kaggle.com/competi
 This code to  instantiate the model(s) and run inference on the test set are present in each file ml-eurosat.ipynb 
 
 ## CSV Prediction Files
-### Prediction File Track 1 
-http://onedrive.... 
-### Prediction File Track 2
-http://onedrive....
+- [Predictions Task 1](ml-eurosat-output)
+- [Predictions Task 2 (pre trained)](ml-eurosat-pretrained-output)
 
 ## Model Checkpoints
 ### Model Checkpoint for Track 1
