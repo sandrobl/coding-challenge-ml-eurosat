@@ -20,9 +20,8 @@ http://onedrive....
 
 ## Model Checkpoints
 ### Model Checkpoint for Track 1
-http://onedrive....
+https://universitaetstgallen-my.sharepoint.com/:u:/g/personal/esra_deveci_student_unisg_ch/ETWPtX2chNZAiMxs8cOYuHQByfGv8Na4FKpB8VD81JOUjA?e=ezeOsy
 ### Model Checkpoint for Track 2
-http://onedrive....
 
 ## Declaration of Aids
 - ChatGPT / Gemini: Help debugging code to find errors. 
