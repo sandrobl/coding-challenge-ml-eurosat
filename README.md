@@ -22,7 +22,7 @@ http://onedrive....
 ### Model Checkpoint for Track 1
 https://universitaetstgallen-my.sharepoint.com/:u:/g/personal/esra_deveci_student_unisg_ch/ETWPtX2chNZAiMxs8cOYuHQByfGv8Na4FKpB8VD81JOUjA?e=ezeOsy
 ### Model Checkpoint for Track 2
-
+https://universitaetstgallen-my.sharepoint.com/:u:/g/personal/esra_deveci_student_unisg_ch/EX7wDpiUnhVJtwMW4Qv5DG8BMYYPxUWIU87F-FcRpzBfug?e=w1nesD
 ## Declaration of Aids
 - ChatGPT / Gemini: Help debugging code to find errors. 
 - ChatGPT / Gemini: Help with recommendations on streamlining the code.
